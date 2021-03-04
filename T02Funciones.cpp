@@ -3,17 +3,12 @@
 #include <iostream>
 #include <conio.h>
 using namespace std; 
-void var( ); 
 int suma(int,int); 
-int resta(int,int); 
 main() {  
-var(); 
-}
- void var( ) {
 int N1,N2;
-cout<<"Inintrodusca el primer valor a sumar: \t";
+cout<<"Introdusca el primer valor a sumar: \t";
 cin>>N1;
-cout<<"Inintrodusca el segundo valor a sumar: \t";
+cout<<"Introdusca el segundo valor a sumar: \t";
 cin>>N2; 
 cout<<"El resultado de la suma es : "<<suma(N1,N2)<<endl;
 }
