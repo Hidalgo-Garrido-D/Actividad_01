@@ -1,5 +1,5 @@
 //Hidalgo Garrido Dario Israel 2AV4
-//Tarea 1 Hacer un programa en el cual se haga uso de Funciones
+//Tarea 1 Hacer un programa el cual se haga uso de Funciones
 #include <iostream>
 
 using namespace std;
